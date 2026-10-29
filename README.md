@@ -6,7 +6,7 @@ This template deploys [Graphify](https://github.com/Graphify-Labs/graphify) as a
 
 > Unofficial deployment wrapper. Not affiliated with Graphify Labs. Graphify is Apache-2.0 licensed by its authors.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/graphify)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PVyJ_l?referralCode=NamAm4&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## How it works
 
